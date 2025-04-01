@@ -74,12 +74,14 @@
 
 ###
 
-<div align="left">
-  <a href="https://github.com/SamuelLemos01/Landing-ADSO-2774163">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamuelLemos01&repo=NOMBRE-DEL-REPO&theme=dracula" />
+<div align="center" justify="space-between>
+
+  <a href="https://senadsogarzon.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Demo-Ver_Proyecto-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo" />
   </a>
-  <a href="https://github.com/SamuelLemos01/Tienda-LuiGui-Despliegue.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamuelLemos01&repo=NOMBRE-DEL-REPO&theme=dracula" />
+  
+  <a href="https://tiendaluigui.senadsogarzon.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Visitar_Sitio-green?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
   </a>
 </div>
 
