@@ -2,11 +2,37 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
 <p align="left">- Learning to program</p>
+
+###
+
+<h3 align="left">💡 Estado actual</h3>
+
+###
+
+<div align="left">
+  - 🔭 Estoy trabajando en <b>WPP Colombia</b><br>
+  - 👯 Busco colaborar en <b>proyecto relacionados con Django</b><br>
+</div>
+
+###
+
+<h3 align="left">🔗 Conéctate conmigo</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/samuel-lemos-916b91353/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="mailto:samuellemos907@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+  </a>
+</div>
 
 ###
 
@@ -32,37 +58,39 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">📚 Actualmente aprendiendo</h3>
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SamuelLemos01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div align="left">
+  <img src="https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
+  <img src="https://img.shields.io/badge/Dart-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/SamuelLemos01/SamuelLemos01/output/snake.svg" alt="Snake animation" />
+<h3 align="left">🚀 Proyectos destacados</h3>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamuelLemos01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelLemos01&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/SamuelLemos01">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=SamuelLemos01&count=10&unique=false" alt="Spotify recently played"  />
+<div align="left">
+  <a href="https://senadsogarzon.com/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamuelLemos01&repo=NOMBRE-DEL-REPO&theme=dracula" />
+  </a>
+  <a href="https://tiendaluigui.senadsogarzon.com/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamuelLemos01&repo=NOMBRE-DEL-REPO&theme=dracula" />
   </a>
 </div>
 
 ###
 
+<h3 align="left">🔥 My Stats :</h3>
+
+###
+
 <div align="center">
-  <img src="https://profile-counter.glitch.me/SamuelLemos01/count.svg?"  />
+  <img src="https://streak-stats.demolab.com?user=SamuelLemos01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
