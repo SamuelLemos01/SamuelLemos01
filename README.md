@@ -75,10 +75,10 @@
 ###
 
 <div align="left">
-  <a href="https://senadsogarzon.com/">
+  <a href="https://github.com/SamuelLemos01/Landing-ADSO-2774163">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamuelLemos01&repo=NOMBRE-DEL-REPO&theme=dracula" />
   </a>
-  <a href="https://tiendaluigui.senadsogarzon.com/">
+  <a href="https://github.com/SamuelLemos01/Tienda-LuiGui-Despliegue.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamuelLemos01&repo=NOMBRE-DEL-REPO&theme=dracula" />
   </a>
 </div>
@@ -102,9 +102,4 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=SamuelLemos01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SamuelLemos01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
 ###
