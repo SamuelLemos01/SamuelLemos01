@@ -63,9 +63,9 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
-  <img src="https://img.shields.io/badge/Dart-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
-  <img src="https://img.shields.io/badge/JavaScript-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
+  <img src="https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=flutter&logoColor=61DAFB" alt="react"/>
+  <img src="https://img.shields.io/badge/Dart-007ACC?style=for-the-badge&logo=dart&logoColor=white" alt="typescript"/>
+  <img src="https://img.shields.io/badge/JavaScript-339933?style=for-the-badge&logo=javascript&logoColor=white" alt="nodejs"/>
 </div>
 
 ###
