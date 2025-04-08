@@ -77,7 +77,7 @@
 <div align="center" justify="space-between>
 
   <a href="https://senadsogarzon.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Demo-Ver_Proyecto-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo" />
+    <img src="https://img.shields.io/badge/Website-Visitar_Sitio-green?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
   </a>
   
   <a href="https://tiendaluigui.senadsogarzon.com/" target="_blank">
