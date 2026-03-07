@@ -15,7 +15,7 @@
 ###
 
 <div align="left">
-  - 🔭 Estoy trabajando en <b>WPP Colombia</b><br>
+  - 🔭 Estoy trabajando en <b>VML Colombia</b><br>
   - 👯 Busco colaborar en <b>proyectos relacionados con Django</b><br>
 </div>
 
